@@ -6,7 +6,7 @@
             "type": "block"
         },
         "condition": {
-            "urlFilter": "https://googleads.g.doubleclick.net/pagead/id",
+            "urlFilter": "https://googleads.g.doubleclick.net/pagead/*",
             "initiatorDomains": [
                 "youtube.com",
                 "www.youtube.com"
