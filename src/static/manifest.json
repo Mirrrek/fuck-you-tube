@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "FuckYouTube",
-    "description": "Block ads on YouTube without detection.",
+    "description": "Block midroll ads on YouTube, without being detected.",
     "version": "1.0.0",
     "action": {
         "default_icon": {

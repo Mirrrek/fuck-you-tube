@@ -1,7 +1,7 @@
 {
     "name": "fuck-you-tube",
     "version": "1.0.0",
-    "description": "Block ads on YouTube without detection.",
+    "description": "Block midroll ads on YouTube, without being detected.",
     "main": "index.js",
     "scripts": {
         "dev": "webpack --mode=development --watch",
