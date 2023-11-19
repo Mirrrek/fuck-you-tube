@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "https://googleads.g.doubleclick.net/pagead/id",
+            "initiatorDomains": [
+                "youtube.com",
+                "www.youtube.com"
+            ]
+        }
+    }
+]

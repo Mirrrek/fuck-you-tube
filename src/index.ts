@@ -1,1 +1,1 @@
-console.log('Hello, world!');
+// We don't even need any JavaScript :)
